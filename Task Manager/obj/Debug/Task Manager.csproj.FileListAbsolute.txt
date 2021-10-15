@@ -1,0 +1,124 @@
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.Core.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.barcodes.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.forms.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.io.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.kernel.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.layout.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.pdfa.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.sign.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.svg.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itextsharp.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Buffers.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Memory.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Json.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.pdb
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.Core.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.barcodes.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.forms.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.io.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.kernel.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.layout.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.pdfa.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.sign.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itext.svg.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\itextsharp.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Buffers.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Memory.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Json.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\System.ValueTuple.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task_Manager.mainForm.resources
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.CopyComplete
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Aspose.PDF.dll
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\bin\Debug\Aspose.PDF.xml
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Qube\Desktop\Job-scheduler-main\Task Manager\obj\Debug\Task_Manager.FormSearch.resources
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Aspose.PDF.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.Core.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.barcodes.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.forms.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.io.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.kernel.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.layout.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.pdfa.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.sign.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.svg.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itextsharp.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Buffers.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Memory.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Json.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Aspose.PDF.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.pdb
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Common.Logging.Core.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.barcodes.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.forms.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.io.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.kernel.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.layout.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.pdfa.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.sign.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itext.svg.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\itextsharp.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Buffers.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Memory.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Text.Json.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\bin\Debug\System.ValueTuple.xml
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task_Manager.FormSearch.resources
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task_Manager.mainForm.resources
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.csproj.CopyComplete
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Qube\Source\Repos\Job-scheduler-main\Task Manager\obj\Debug\Task Manager.pdb
